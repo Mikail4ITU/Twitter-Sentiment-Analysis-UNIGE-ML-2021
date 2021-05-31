@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-UNIGE-ML-2021
+# Twitter-Sentiment-Analysis-UNIGE-ML-2021 :wink:
 
 <img src="img/Geneva_School_of_Economics_and_Management.png"/>
 
